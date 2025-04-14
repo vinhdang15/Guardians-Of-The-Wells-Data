@@ -1,0 +1,12 @@
+[
+  {
+    "mapID": 1,
+    "activate": true,
+    "starsPoint": 3
+  },
+  {
+    "mapID": 2,
+    "activate": true,
+    "starsPoint": 0
+  }
+]

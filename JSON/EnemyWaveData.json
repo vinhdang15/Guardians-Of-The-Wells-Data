@@ -1,0 +1,25 @@
+[
+  {
+    "mapID": 1,
+    "pathWayWaveList": [
+      {
+        "pathID": 1,
+        "EnemyWaveList": [
+          {
+            "waveNumber": 1,
+            "enemyID": "Monster_1",
+            "numberEnemyInWave": 2,
+            "timeBetweenEachSpawn": 0.8,
+            "timeWaitForNextWave": 10.0
+          }
+        ]
+      },
+      {
+        "pathID": 2,
+        "EnemyWaveList": [
+
+        ]
+      }
+    ]
+  }
+]

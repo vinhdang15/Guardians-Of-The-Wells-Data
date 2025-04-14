@@ -1,0 +1,42 @@
+[
+  {
+    "unitType": "Soldier",
+    "id": "Swordsman_1",
+    "maxHP": 150,
+    "moveSpeed": 1.0,
+    "attackSpeed": 1.0,
+    "attackDamage": 20,
+    "goldReward": 0,
+    "skillType": "None"
+  },
+  {
+    "unitType": "Soldier",
+    "id": "Swordsman_2",
+    "maxHP": 175,
+    "moveSpeed": 1.2,
+    "attackSpeed": 1.0,
+    "attackDamage": 20,
+    "goldReward": 0,
+    "skillType": "SelfHealing"
+  },
+  {
+    "unitType": "Enemy",
+    "id": "Monster_1",
+    "maxHP": 100,
+    "moveSpeed": 0.8,
+    "attackSpeed": 1.5,
+    "attackDamage": 30,
+    "goldReward": 5,
+    "skillType": "None"
+  },
+  {
+    "unitType": "Enemy",
+    "id": "Monster_2",
+    "maxHP": 200,
+    "moveSpeed": 0.7,
+    "attackSpeed": 1.5,
+    "attackDamage": 40,
+    "goldReward": 20,
+    "skillType": "Ignore_Effect"
+  }
+]

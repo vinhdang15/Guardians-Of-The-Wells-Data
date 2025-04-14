@@ -1,0 +1,24 @@
+[
+  {
+    "mapID": 1,
+    "mapName": "Forest_1",
+    "goldInit": 1000,
+    "lives": 18,
+    "description": "welcome to my dev joney.\nI think I gonna make it right.",
+    "initMapBtnPos": {
+      "x": -6.47,
+      "y": -3.65
+    }
+  },
+  {
+    "mapID": 2,
+    "mapName": "Forest_2",
+    "goldInit": 500,
+    "lives": 10,
+    "description": "welcome to the Forest_2.\nLet's play",
+    "initMapBtnPos": {
+      "x": -3.95,
+      "y": -1.87
+    }
+  }
+]
